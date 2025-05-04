@@ -15,3 +15,4 @@ This is a responsive front-end clone of the Amazon India homepage built using **
 
 - HTML5
 - CSS3 (Flexbox + Grid + Media Queries)
+[Click Here for live demo](https://shivanib9.github.io/Amazon-clone/)
